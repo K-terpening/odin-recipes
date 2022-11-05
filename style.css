@@ -1,0 +1,44 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-h {
+    color: cornflowerblue;
+    background-color: rebeccapurple;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+   font-weight: 800;
+   color: burlywood;
+}
+
+h2 {
+   color: darkred; 
+}
+
+.ing,
+ul {
+    background-color: blanchedalmond;
+}
+
+ul.home-li {
+    background-color: white;
+}
+
+ul li {
+    color: hwb(0 3% 11%);
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.h-link {
+    text-align: right;
+}
